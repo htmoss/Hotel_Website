@@ -1,0 +1,72 @@
+/* Use for testing */
+/* body{
+   display: none;
+} */
+
+#navbar .logo{
+   float: none;
+   text-align: center;
+}
+
+#navbar ul,
+#navbar ul li{
+   float: none;
+}
+
+#navbar ul li a{
+   padding: .3rem;
+   border-bottom: #444 dotted 1px;
+}
+
+
+/* Home Info */
+#home-info{
+   height: 350px;
+}
+
+#home-info .info-img{
+   display: none;
+}
+
+#home-info .info-content{
+   float: none;
+   width: 100%;
+}
+
+/* Boxes */
+.box{
+   float: none;
+   width: 100%;
+}
+
+/* About Page */
+#about-info .info-left{
+   float: none;
+   width: 100%;
+}
+
+#about-info .info-right img{
+   float: none;
+   width: 100%;
+}
+
+#about-info .info-right{
+   float: none;
+   margin: auto auto;
+   margin-top: 15px;
+}
+
+.l-heading{
+   text-align: center;
+   
+}
+
+/* Contact Page */
+#contact-info .box{
+   border-bottom: #444 1px solid;
+}
+
+.contact-but{
+   display: block;
+   margin: auto;
+}
