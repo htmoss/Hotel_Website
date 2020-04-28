@@ -191,6 +191,10 @@ p{
    padding-bottom: 30px;
 }
 
+#home-info h2{
+   line-height: 2rem;
+}
+
 /* Features */
 .box {
    float: left;
@@ -284,9 +288,22 @@ p{
 }
 
 /* Footer */
-#main-footer{
+.footer{
    text-align: center;
    background: #333;
    color: #fff;
    padding: 15px;
 }
+
+.footer .social i{
+   color: #fff;
+   padding: 10px;
+ }
+ 
+ .footer .social i:hover{
+   color: #f7c08a;
+ }
+ 
+ .footer h4{
+   font-size: .7rem;
+ }
